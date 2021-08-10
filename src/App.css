@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.title-app,
+h1,
+span {
+  color: rgb(228, 220, 220);
+}
+
+.title-app {
+  font-family: "STIX Two Text", serif;
+}
+
+span {
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+}
