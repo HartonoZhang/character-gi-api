@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/character-gi-api/static/css/main.4e064bdc.chunk.css",
+    "main.js": "/character-gi-api/static/js/main.bce272c5.chunk.js",
+    "main.js.map": "/character-gi-api/static/js/main.bce272c5.chunk.js.map",
+    "runtime-main.js": "/character-gi-api/static/js/runtime-main.ff2955ca.js",
+    "runtime-main.js.map": "/character-gi-api/static/js/runtime-main.ff2955ca.js.map",
+    "static/js/2.1a787715.chunk.js": "/character-gi-api/static/js/2.1a787715.chunk.js",
+    "static/js/2.1a787715.chunk.js.map": "/character-gi-api/static/js/2.1a787715.chunk.js.map",
+    "static/js/3.0aeb7098.chunk.js": "/character-gi-api/static/js/3.0aeb7098.chunk.js",
+    "static/js/3.0aeb7098.chunk.js.map": "/character-gi-api/static/js/3.0aeb7098.chunk.js.map",
+    "index.html": "/character-gi-api/index.html",
+    "static/css/main.4e064bdc.chunk.css.map": "/character-gi-api/static/css/main.4e064bdc.chunk.css.map",
+    "static/js/2.1a787715.chunk.js.LICENSE.txt": "/character-gi-api/static/js/2.1a787715.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff2955ca.js",
+    "static/js/2.1a787715.chunk.js",
+    "static/css/main.4e064bdc.chunk.css",
+    "static/js/main.bce272c5.chunk.js"
+  ]
+}
